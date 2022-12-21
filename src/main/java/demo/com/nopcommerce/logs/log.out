@@ -1,0 +1,33 @@
+2022-12-20 12:12:280 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (91fee89b532a59a791e3a9ad80868136)] -> link text: Desktops]
+2022-12-20 12:12:249 INFO  DesktopPage :32 - Navigate to desktop error message
+2022-12-20 12:12:535 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (e953ad8e07f34a692d1957f45154ad82)] -> link text: Desktops]
+2022-12-20 12:12:702 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (e953ad8e07f34a692d1957f45154ad82)] -> link text: Desktops]
+2022-12-20 12:12:853 INFO  DesktopPage :38 - Arrange products in descending order
+2022-12-20 12:12:235 INFO  HomePage :71 - Mouse Hovering to LaptopsNotebooks and Clicking on it: [[ChromeDriver: chrome on WINDOWS (562b85cef240e1d8fef8f2df54084297)] -> link text: Laptops & Notebooks]
+2022-12-20 12:12:989 INFO  LaptopsAndNotebooksPage :48 - Arranging product in high to low order: 
+2022-12-20 12:12:68 INFO  HomePage :81 - Clicking on my account: Proxy element for: DefaultElementLocator 'By.xpath: /span[text()='My Account']'
+2022-12-20 12:12:196 INFO  HomePage :81 - Clicking on my account: Proxy element for: DefaultElementLocator 'By.xpath: /span[text()='My Account']'
+2022-12-20 12:12:108 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (b281c7d9a5eebd70920d838448a87ac7)] -> link text: Desktops]
+2022-12-20 12:12:292 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (b281c7d9a5eebd70920d838448a87ac7)] -> link text: Desktops]
+2022-12-20 12:12:525 INFO  DesktopPage :38 - Arrange products in descending order
+2022-12-20 12:12:52 INFO  HomePage :42 - Clicking on currency dropdown
+2022-12-20 12:12:733 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (accfac0b6bfad0671f31f2d2ab9d26ac)] -> link text: Desktops]
+2022-12-20 12:12:658 INFO  DesktopPage :65 - Selecting text from drop down
+2022-12-20 12:12:124 INFO  DesktopPage :70 - Cliking on HP product
+2022-12-20 12:12:397 INFO  HpProductPage :37 - Displaying error message
+2022-12-20 12:12:278 INFO  HomePage :66 - Mouse Hovering to Desktop and Clicking on it: [[ChromeDriver: chrome on WINDOWS (f65074c01ee4a44f148f04a02055e396)] -> link text: Desktops]
+2022-12-20 12:12:418 INFO  DesktopPage :32 - Navigate to desktop error message
+2022-12-20 12:12:383 INFO  HomePage :71 - Mouse Hovering to LaptopsNotebooks and Clicking on it: [[ChromeDriver: chrome on WINDOWS (a71627e4baebb02869ea2a457c6b96fc)] -> link text: Laptops & Notebooks]
+2022-12-20 12:12:231 INFO  LaptopsAndNotebooksPage :32 - Navigating to laptops and notebooks error message: [[ChromeDriver: chrome on WINDOWS (a71627e4baebb02869ea2a457c6b96fc)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]
+2022-12-20 12:12:643 INFO  HomePage :76 - Mouse Hovering to Components and Clicking on it: [[ChromeDriver: chrome on WINDOWS (311274df5cc8302ef2c30bcded276d67)] -> link text: Components]
+2022-12-20 12:12:308 INFO  ComponentsPage :23 - verify navigate to components error message[[ChromeDriver: chrome on WINDOWS (311274df5cc8302ef2c30bcded276d67)] -> xpath: //h2[contains(text(),'Components')]]
+2022-12-20 12:12:656 INFO  HomePage :71 - Mouse Hovering to LaptopsNotebooks and Clicking on it: [[ChromeDriver: chrome on WINDOWS (4b5d4211c37884fa588f25ca0a75e8e1)] -> link text: Laptops & Notebooks]
+2022-12-20 12:12:487 INFO  LaptopsAndNotebooksPage :48 - Arranging product in high to low order: 
+2022-12-20 12:12:582 INFO  HomePage :42 - Clicking on currency dropdown
+2022-12-20 12:12:291 INFO  HomePage :71 - Mouse Hovering to LaptopsNotebooks and Clicking on it: [[ChromeDriver: chrome on WINDOWS (e20231a3ab0dd99266214db22353b75e)] -> link text: Laptops & Notebooks]
+2022-12-20 12:12:52 INFO  LaptopsAndNotebooksPage :38 - Select price from drop down
+2022-12-20 12:12:496 INFO  LaptopsAndNotebooksPage :43 - Clicking pn MacBook Menu
+2022-12-20 12:12:903 INFO  MacBookPage :28 - Verify Macbook error Message [[ChromeDriver: chrome on WINDOWS (e20231a3ab0dd99266214db22353b75e)] -> xpath: //h1[contains(text(),'MacBook')]]
+2022-12-20 12:12:800 INFO  HomePage :81 - Clicking on my account: Proxy element for: DefaultElementLocator 'By.xpath: /span[text()='My Account']'
+2022-12-20 12:12:943 INFO  HomePage :81 - Clicking on my account: Proxy element for: DefaultElementLocator 'By.xpath: /span[text()='My Account']'
+2022-12-20 12:12:694 INFO  HomePage :81 - Clicking on my account: Proxy element for: DefaultElementLocator 'By.xpath: /span[text()='My Account']'
